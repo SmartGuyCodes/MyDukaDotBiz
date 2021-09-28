@@ -1,0 +1,19 @@
+What is MyPay?
+
+MyPay is an online payment system. It is an online digital wallet. 
+
+How MyPay Works
+
+i.  Select products
+ii. Create a purchase order
+iii.Display payment price
+iv. Confirm payment
+v. Payment notice
+vi. Confirm purchase
+vii.Remit pament
+
+Technology
+
+Integrate Paypal PHP SDK into the system to allow users to pay using cards.
+
+https://github.com/paypal/PayPal-PHP-SDK 
